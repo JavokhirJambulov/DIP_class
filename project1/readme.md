@@ -2,8 +2,11 @@
 Team members:
 1) Jambulov Javokhir 12204567 (Team leader)
 2) Sairmurodov Elyor 12204556
+
 Course name: Digital Image Processing Design
+
 Professor: Kakani Vijay Date: 2023/10/31
+
 Demo link: https://youtu.be/OXnrKU-YOdQ?si=RJn6UkJ7oCK_CKI8
 
 
