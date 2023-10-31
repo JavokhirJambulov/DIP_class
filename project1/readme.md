@@ -32,6 +32,7 @@ detection project. He was responsible for curating public face-related datasets 
 self-made dataset, ensuring diversity in orientations, scales, and lighting conditions.
 
 https://www.kaggle.com/datasets/arnaud58/landscape-pictures
+
 https://www.kaggle.com/datasets/ashwingupta3012/human-faces
 
 Training the Haar Cascade Classifier: took the lead in training the Haar cascade classifier. He fine-tuned
